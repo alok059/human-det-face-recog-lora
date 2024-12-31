@@ -2,5 +2,5 @@
 
 ![Poster](Working_Poster.png.png)
 
-### Tools used: Python, YOLOv8, face recognition, Raspberry Pi, Arduino, LoRa Modules
+### Tools used: Python, YOLOv8, Face recognition, Raspberry Pi, Arduino, LoRa Modules
 
